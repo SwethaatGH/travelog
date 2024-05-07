@@ -12,7 +12,8 @@ To run this application locally, follow these steps:
 1. Install React Native CLI using ```npm install -g react-native-cli```
 2. Create a New React Native Project using ```npx react-native init YourAppName```
 3. Navigate to the Project Directory using ```cd YourAppName```
-4. To setup database, here's a typical directory structure for a Node.js backend server
+4. Create source files under src/components
+5. To setup database, here's a typical directory structure for a Node.js backend server
 
 /backend
 
