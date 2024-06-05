@@ -1,7 +1,7 @@
 # Travelog
 This mobile based application helps employees of an organisation manage official trips. Trips can be added, modified, deleted and can also be viewed in a list.
 
-## Technology Used
+## Tech Stack Used
 React Native: Frontend development framework for building cross-platform mobile applications.
 
 MySQL: Relational database management system for storing and retrieving travel data.
